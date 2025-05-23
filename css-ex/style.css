@@ -1,0 +1,23 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 20px solid purple;
+    margin: 20px;
+    font-weight: bold;
+    height: 40px;
+    
+
+}
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+button {
+    background-color: orange;
+    color: white;
+    font-size: 18px;
+}
